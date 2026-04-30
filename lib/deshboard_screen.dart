@@ -23,7 +23,7 @@ class _ResultScreenState extends State<ResultScreen> {
   String missionStatus = "";
   String missionDuration = "";
   String captainsMessage = "";
-  String inFormation = "";
+  String inFormation = ""; 
 
   @override
   void initState() {
